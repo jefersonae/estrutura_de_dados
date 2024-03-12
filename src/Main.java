@@ -42,7 +42,7 @@ public class Main {
             }
         }
 
-        //
+        //Questão 3
         int [] a = new int[3];
         int [] b = new int[3];
         int [] c = new int[6];
